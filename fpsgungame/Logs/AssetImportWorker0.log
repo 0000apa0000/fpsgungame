@@ -1,0 +1,603 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.7f1 (c53830e277f1) revision 12924976'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Enterprise N; OS build 18363.2037; Version 1909; 64bit' Language: 'en' Physical Memory: 12171 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/DC/Documents/GitHub/fpsgungame/fpsgungame
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49486
+Successfully changed project path to: C:/Users/DC/Documents/GitHub/fpsgungame/fpsgungame
+C:/Users/DC/Documents/GitHub/fpsgungame/fpsgungame
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 47.80 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.7f1 (c53830e277f1)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/DC/Documents/GitHub/fpsgungame/fpsgungame/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 840M (ID=0x1341)
+    Vendor:   
+    VRAM:     4055 MB
+    Driver:   27.21.14.5206
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56076
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001958 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 42.47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.131 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004544 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.967 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1416 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.9 MB.
+System memory in use after: 93.0 MB.
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 1846.
+Total: 2.130200 ms (FindLiveObjects: 0.246600 ms CreateObjectMapping: 0.078400 ms MarkObjects: 1.732900 ms  DeleteObjects: 0.071200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/model/simple.png
+  artifactKey: Guid(416c1c7c8c3f5e845bbe7ff22343e157) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/model/simple.png using Guid(416c1c7c8c3f5e845bbe7ff22343e157) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e5aae4e589eef499a16b0bc62184c37') in 0.146879 seconds
+  Import took 0.149794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Materials
+  artifactKey: Guid(1ba26b6b069b95148a074cab3adc6030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials using Guid(1ba26b6b069b95148a074cab3adc6030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84504a0efddda2c119c96819cfb52c17') in 0.011866 seconds
+  Import took 0.014397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/model/Cottage_FREE.fbx
+  artifactKey: Guid(6ef130d10cc63394981d12c0d1d06891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/model/Cottage_FREE.fbx using Guid(6ef130d10cc63394981d12c0d1d06891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3d65fa5b08206f4775a30c65b588d85') in 0.266983 seconds
+  Import took 0.269558 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/model/Castelia City.fbx
+  artifactKey: Guid(7d723b780811cd4429fce2036435e2ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/model/Castelia City.fbx using Guid(7d723b780811cd4429fce2036435e2ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d56a227a660c6865378759a168da6f0') in 14.404165 seconds
+  Import took 14.478516 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/model
+  artifactKey: Guid(5734767f606bf814ca4e585be1c116eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/model using Guid(5734767f606bf814ca4e585be1c116eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c329674e7a422fcd72862d27bb33f38') in 0.006447 seconds
+  Import took 0.009542 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.812627 seconds.
+  path: Assets/model/New Folder
+  artifactKey: Guid(9c187e61e5b81cd429dd2c046cec3fac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/model/New Folder using Guid(9c187e61e5b81cd429dd2c046cec3fac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e867c7d3ed1858054fd192673e382c4') in 0.007917 seconds
+  Import took 0.012306 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.829356 seconds.
+  path: Assets/model/muntain_p
+  artifactKey: Guid(9c187e61e5b81cd429dd2c046cec3fac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/model/muntain_p using Guid(9c187e61e5b81cd429dd2c046cec3fac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e8915c029e72604abb322374fbc64ae') in 0.008913 seconds
+  Import took 0.013551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.963717 seconds.
+  path: Assets/Materials/Dirt_Base_Color.mat
+  artifactKey: Guid(f3f0c25623044a54cb2523fa7a91fc2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Dirt_Base_Color.mat using Guid(f3f0c25623044a54cb2523fa7a91fc2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3e424a6c59f3df0ee0cf0e8e22e05d2') in 0.044890 seconds
+  Import took 0.048269 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Materials/Dirt_Metallic.mat
+  artifactKey: Guid(707dcea817ee53d49ada6d367e2f4839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Dirt_Metallic.mat using Guid(707dcea817ee53d49ada6d367e2f4839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97336e74242f12fc8566ce7740c30eaa') in 0.028762 seconds
+  Import took 0.031370 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Materials/Dirt_Roughness.mat
+  artifactKey: Guid(62f70fc5aa862d24593dfc5577894b56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Dirt_Roughness.mat using Guid(62f70fc5aa862d24593dfc5577894b56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d078de097e809a00fd4c936ab254020') in 0.017184 seconds
+  Import took 0.019796 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.667420 seconds.
+  path: Assets/model/Mountain_Race_Track_Sprint
+  artifactKey: Guid(b348fae7d7897614695970892ffb871c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/model/Mountain_Race_Track_Sprint using Guid(b348fae7d7897614695970892ffb871c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bee932596a04e67b90ba17ce513df13') in 0.008619 seconds
+  Import took 0.011907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.555741 seconds.
+  path: Assets/model/Materials/simple.mat
+  artifactKey: Guid(6e5f21f5bc6f33043846012526803dac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/model/Materials/simple.mat using Guid(6e5f21f5bc6f33043846012526803dac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75021bb4f33638384b6b34c93bc68ba3') in 0.013189 seconds
+  Import took 0.016423 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.254306 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f89434ac489deb914593f829e0a47671') in 0.008445 seconds
+  Import took 0.012228 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.858934 seconds.
+  path: Assets/pouria
+  artifactKey: Guid(030dd35d5f1859e44b8632a3b3e4d765) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pouria using Guid(030dd35d5f1859e44b8632a3b3e4d765) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61880c7c0c4f9bec626c19fbe34969fa') in 0.008351 seconds
+  Import took 0.011655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.949921 seconds.
+  path: Assets/pouria/Mountain_Race_Track_Sprint/Materials
+  artifactKey: Guid(1168941ab3403fd44a2382a3f4f8fb09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pouria/Mountain_Race_Track_Sprint/Materials using Guid(1168941ab3403fd44a2382a3f4f8fb09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ef9b861aab0677c0ef27577450d65e8') in 0.003225 seconds
+  Import took 0.006737 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.073044 seconds.
+  path: Assets/pouria/Mountain_Race_Track_Sprint/Materials/asphalt.mat
+  artifactKey: Guid(bac1e2bdd3015684aae62926f20fccea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pouria/Mountain_Race_Track_Sprint/Materials/asphalt.mat using Guid(bac1e2bdd3015684aae62926f20fccea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf6fed0a1793649b4ab6391084601c21') in 0.251563 seconds
+  Import took 0.255421 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/pouria/Mountain_Race_Track_Sprint/Materials/metal_pole_sign.mat
+  artifactKey: Guid(eb49c9757abff664b994fb5f467e5bb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pouria/Mountain_Race_Track_Sprint/Materials/metal_pole_sign.mat using Guid(eb49c9757abff664b994fb5f467e5bb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a2641a84bcbcb63d498406a4a7b4fda') in 0.012730 seconds
+  Import took 0.016801 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/pouria/Mountain_Race_Track_Sprint/Materials/concrete-floor.mat
+  artifactKey: Guid(305d4ec2feb6b374e80e2ab98142cd3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pouria/Mountain_Race_Track_Sprint/Materials/concrete-floor.mat using Guid(305d4ec2feb6b374e80e2ab98142cd3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91a8eeec82c2ee5c0028e9fb2eee7b88') in 0.208212 seconds
+  Import took 0.211814 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/pouria/Mountain_Race_Track_Sprint/Materials/flag_red.mat
+  artifactKey: Guid(eff62f5c70c99bb4cafc3e1995cd771f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pouria/Mountain_Race_Track_Sprint/Materials/flag_red.mat using Guid(eff62f5c70c99bb4cafc3e1995cd771f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5fed534c576cca22cffd02d918c47ad') in 0.044677 seconds
+  Import took 0.047781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/pouria/Mountain_Race_Track_Sprint/Materials/flag_pole_metal.mat
+  artifactKey: Guid(36bb034d6e373f74f8e87b444e87c695) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pouria/Mountain_Race_Track_Sprint/Materials/flag_pole_metal.mat using Guid(36bb034d6e373f74f8e87b444e87c695) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3dbc3937420cb970024e80c380a2dbf') in 0.116595 seconds
+  Import took 0.119207 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/pouria/Mountain_Race_Track_Sprint/Materials/side_collision.mat
+  artifactKey: Guid(95936479b02e5744ab10bfe146ca5355) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pouria/Mountain_Race_Track_Sprint/Materials/side_collision.mat using Guid(95936479b02e5744ab10bfe146ca5355) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61df3ef9fd3a1932fdaf1c78b7bb4a26') in 0.015192 seconds
+  Import took 0.018485 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/pouria/Mountain_Race_Track_Sprint/Materials/snow-wall.mat
+  artifactKey: Guid(4ab7ecdf565a7504286ffb530a907ec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pouria/Mountain_Race_Track_Sprint/Materials/snow-wall.mat using Guid(4ab7ecdf565a7504286ffb530a907ec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '471e9b31b731f1d76e17fc3c65d3f046') in 0.019973 seconds
+  Import took 0.023087 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/pouria/Mountain_Race_Track_Sprint/Materials/flag_green.mat
+  artifactKey: Guid(ebc9acb2483b3224f894befcbf460ebc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pouria/Mountain_Race_Track_Sprint/Materials/flag_green.mat using Guid(ebc9acb2483b3224f894befcbf460ebc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61963b2b9491d96470f8f188a08bc9a6') in 0.016760 seconds
+  Import took 0.020559 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/pouria/Mountain_Race_Track_Sprint/Materials/stripes.mat
+  artifactKey: Guid(157d52c7030c7f848b724ae2df40d26f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pouria/Mountain_Race_Track_Sprint/Materials/stripes.mat using Guid(157d52c7030c7f848b724ae2df40d26f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b99d8afe224d34a94de89ab96d01b46') in 0.016383 seconds
+  Import took 0.019360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/pouria/Mountain_Race_Track_Sprint/Materials/cable-black.mat
+  artifactKey: Guid(777a02b90f48beb45972357e96c86279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pouria/Mountain_Race_Track_Sprint/Materials/cable-black.mat using Guid(777a02b90f48beb45972357e96c86279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d6dfb0413e1a0301d1630dbb5323c66') in 0.015501 seconds
+  Import took 0.019274 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/pouria/Mountain_Race_Track_Sprint/Materials/metal_gate.mat
+  artifactKey: Guid(809cbdd90461c364d9a0a43c7bc66fee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pouria/Mountain_Race_Track_Sprint/Materials/metal_gate.mat using Guid(809cbdd90461c364d9a0a43c7bc66fee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd9b548a54da085962ea1510e71bfd17') in 0.019166 seconds
+  Import took 0.023449 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/pouria/Mountain_Race_Track_Sprint/Materials/snow.mat
+  artifactKey: Guid(5d24852f111d1ef409560cad1dd0603b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pouria/Mountain_Race_Track_Sprint/Materials/snow.mat using Guid(5d24852f111d1ef409560cad1dd0603b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b283b27ad69ff1977988500d62d74f58') in 0.128536 seconds
+  Import took 0.132316 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/pouria/Mountain_Race_Track_Sprint/Materials/wood_planks.mat
+  artifactKey: Guid(c5f45c01ff18c4d4797eb156869c8ad3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pouria/Mountain_Race_Track_Sprint/Materials/wood_planks.mat using Guid(c5f45c01ff18c4d4797eb156869c8ad3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f211699615ae4b7c638e1772c4fc0c3') in 0.017986 seconds
+  Import took 0.020612 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/pouria/Mountain_Race_Track_Sprint/Materials/New Material.mat
+  artifactKey: Guid(4c5a0732b4408534fb3b9eb038cc6ded) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pouria/Mountain_Race_Track_Sprint/Materials/New Material.mat using Guid(4c5a0732b4408534fb3b9eb038cc6ded) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e05f0786eb1618acb9f35a28369f0d6') in 0.202391 seconds
+  Import took 0.205329 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/pouria/Mountain_Race_Track_Sprint/Materials/flag_yellow.mat
+  artifactKey: Guid(67b32be19925ac540938fcdda2573bc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pouria/Mountain_Race_Track_Sprint/Materials/flag_yellow.mat using Guid(67b32be19925ac540938fcdda2573bc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5faa055429288eb9b2b17d5c3ff968b6') in 0.012538 seconds
+  Import took 0.016348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/pouria/Mountain_Race_Track_Sprint/Materials/red_light.mat
+  artifactKey: Guid(d087f8d714947f44da34dc898fcb6bcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pouria/Mountain_Race_Track_Sprint/Materials/red_light.mat using Guid(d087f8d714947f44da34dc898fcb6bcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92cde541308743e144a957dac27b3856') in 0.050685 seconds
+  Import took 0.053852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/pouria/Mountain_Race_Track_Sprint/Materials/stripes_B.mat
+  artifactKey: Guid(fc0e013afabb66146a7c19b3ff2a0514) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pouria/Mountain_Race_Track_Sprint/Materials/stripes_B.mat using Guid(fc0e013afabb66146a7c19b3ff2a0514) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fd13103e0ba8512031aff1aa8e57ae8') in 0.016989 seconds
+  Import took 0.020563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/pouria/Mountain_Race_Track_Sprint/Materials/metal-pole.mat
+  artifactKey: Guid(8544c81d64c44da43a13c54c9e13395e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pouria/Mountain_Race_Track_Sprint/Materials/metal-pole.mat using Guid(8544c81d64c44da43a13c54c9e13395e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '576daa2508bec2f79ad85ba2e3b76217') in 0.015702 seconds
+  Import took 0.020343 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/pouria/Mountain_Race_Track_Sprint/Materials/black_mat.mat
+  artifactKey: Guid(bcd1606713897e04899285bc03a51cc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pouria/Mountain_Race_Track_Sprint/Materials/black_mat.mat using Guid(bcd1606713897e04899285bc03a51cc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '750433497ddf541e66d90c5ab6013e17') in 0.014618 seconds
+  Import took 0.017435 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/pouria/Mountain_Race_Track_Sprint/Materials/floor_checker.mat
+  artifactKey: Guid(7afa783ad99ad1d4fb97d4ee327176b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pouria/Mountain_Race_Track_Sprint/Materials/floor_checker.mat using Guid(7afa783ad99ad1d4fb97d4ee327176b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a6c13e8702c3fa7d03e88659d5f36db') in 0.017222 seconds
+  Import took 0.021286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/pouria/Mountain_Race_Track_Sprint/Materials/wood_planks_door.mat
+  artifactKey: Guid(5c9ec2714e5692f4f8573b969070e607) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pouria/Mountain_Race_Track_Sprint/Materials/wood_planks_door.mat using Guid(5c9ec2714e5692f4f8573b969070e607) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a4270c9359509b6e78ca8a31fef3cad') in 0.023555 seconds
+  Import took 0.026659 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.746765 seconds.
+  path: Assets/pouria/Mountain_Race_Track_Sprint/Models
+  artifactKey: Guid(de5164ac656c1e446b106e6c4016aec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pouria/Mountain_Race_Track_Sprint/Models using Guid(de5164ac656c1e446b106e6c4016aec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79189fe4e4d6e84a250408ec604862a6') in 0.008294 seconds
+  Import took 0.011467 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.066866 seconds.
+  path: Assets/pouria/Mountain_Race_Track_Sprint/Models/electrical-towers.FBX
+  artifactKey: Guid(379859675689fb34a96f42250b71a2ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pouria/Mountain_Race_Track_Sprint/Models/electrical-towers.FBX using Guid(379859675689fb34a96f42250b71a2ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75428e1567822fe2bbcdd5597f941ff5') in 0.040112 seconds
+  Import took 0.043238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/pouria/Mountain_Race_Track_Sprint/Models/rocks-mountain-1.FBX
+  artifactKey: Guid(383bf828b5810774fa2b60ed47ebce57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pouria/Mountain_Race_Track_Sprint/Models/rocks-mountain-1.FBX using Guid(383bf828b5810774fa2b60ed47ebce57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3584723280dca566115d61bb97353c9') in 0.021309 seconds
+  Import took 0.024063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/pouria/Mountain_Race_Track_Sprint/Models/flag_pole.FBX
+  artifactKey: Guid(9b84501582b39694287014eaa26c6147) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pouria/Mountain_Race_Track_Sprint/Models/flag_pole.FBX using Guid(9b84501582b39694287014eaa26c6147) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e047eeafaf2ba64ce92b8245dcdff1b6') in 0.020176 seconds
+  Import took 0.023493 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/pouria/Mountain_Race_Track_Sprint/Models/sprint-map-high.FBX
+  artifactKey: Guid(43e773e8fc4d2d141b6acf3c9e6cea54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pouria/Mountain_Race_Track_Sprint/Models/sprint-map-high.FBX using Guid(43e773e8fc4d2d141b6acf3c9e6cea54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db673e9cf0b44726e49443026968e55f') in 0.116016 seconds
+  Import took 0.120430 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/pouria/Mountain_Race_Track_Sprint/Models/nia_sprint_mountain.asset
+  artifactKey: Guid(215bdc7a27c1bd7449ca966a244c2f8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pouria/Mountain_Race_Track_Sprint/Models/nia_sprint_mountain.asset using Guid(215bdc7a27c1bd7449ca966a244c2f8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9f4d834af9d5749aea824555d9f6f1c') in 0.183055 seconds
+  Import took 0.187060 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/pouria/Mountain_Race_Track_Sprint/Models/wood_cabin.FBX
+  artifactKey: Guid(f255f9bc9cf98f3419a3ed18510b2e5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pouria/Mountain_Race_Track_Sprint/Models/wood_cabin.FBX using Guid(f255f9bc9cf98f3419a3ed18510b2e5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '316c68f130e64b5159a98e1704a21bf4') in 0.026180 seconds
+  Import took 0.029259 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/pouria/Mountain_Race_Track_Sprint/Models/road-signs.FBX
+  artifactKey: Guid(5ccb50ee56d4dd84ea78aa630f4d7ee9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pouria/Mountain_Race_Track_Sprint/Models/road-signs.FBX using Guid(5ccb50ee56d4dd84ea78aa630f4d7ee9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d8d64655246db32bbde71da8ff0a96d') in 0.022069 seconds
+  Import took 0.026160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/pouria/Mountain_Race_Track_Sprint/Models/start-gate.FBX
+  artifactKey: Guid(d7541be6372c0354b8693413707e1dba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pouria/Mountain_Race_Track_Sprint/Models/start-gate.FBX using Guid(d7541be6372c0354b8693413707e1dba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40980fb4b15608f4600c0b69f4bf6ce6') in 0.021507 seconds
+  Import took 0.024906 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.376199 seconds.
+  path: Assets/pouria/Mountain_Race_Track_Sprint/Textures
+  artifactKey: Guid(fc448ba649477cf47a722edd5814a8c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pouria/Mountain_Race_Track_Sprint/Textures using Guid(fc448ba649477cf47a722edd5814a8c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '363734b690a165de9f21517452bc9689') in 0.008843 seconds
+  Import took 0.012204 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.057279 seconds.
+  path: Assets/pouria/Mountain_Race_Track_Sprint/Textures/asphalt-n.png
+  artifactKey: Guid(87f575b4de6ff2042965985215c17894) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pouria/Mountain_Race_Track_Sprint/Textures/asphalt-n.png using Guid(87f575b4de6ff2042965985215c17894) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '409c7b5d277d67dbf89f52d38103499a') in 0.020368 seconds
+  Import took 0.023397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/pouria/Mountain_Race_Track_Sprint/Textures/floor_checker.png
+  artifactKey: Guid(54486ecd228a3e34e9a3308c73416e5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pouria/Mountain_Race_Track_Sprint/Textures/floor_checker.png using Guid(54486ecd228a3e34e9a3308c73416e5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6e144cc9aa77aa675860f05b0946fbc') in 0.010516 seconds
+  Import took 0.013995 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/pouria/Mountain_Race_Track_Sprint/Textures/nia_flare.png
+  artifactKey: Guid(cf7ede2744fd48744a1ee994b18f118a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pouria/Mountain_Race_Track_Sprint/Textures/nia_flare.png using Guid(cf7ede2744fd48744a1ee994b18f118a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b76734ea1adcdd13b8a89f765e94a858') in 0.011846 seconds
+  Import took 0.014559 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/pouria/Mountain_Race_Track_Sprint/Textures/stripes.png
+  artifactKey: Guid(ab4ef74f85665e34ba655461d2add527) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pouria/Mountain_Race_Track_Sprint/Textures/stripes.png using Guid(ab4ef74f85665e34ba655461d2add527) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b255c699e54ebaa38514ac258e195028') in 0.014500 seconds
+  Import took 0.018869 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/pouria/Mountain_Race_Track_Sprint/Textures/wood_planks_door.png
+  artifactKey: Guid(e16bc8feb7b2f9849a49bd4bcbd71066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pouria/Mountain_Race_Track_Sprint/Textures/wood_planks_door.png using Guid(e16bc8feb7b2f9849a49bd4bcbd71066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '095e4e0c12b336e73d5c44a70720c530') in 0.017062 seconds
+  Import took 0.021493 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/pouria/Mountain_Race_Track_Sprint/Textures/snow-wall-n.png
+  artifactKey: Guid(7369cdcbba2b9df45b5131f422b4af6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pouria/Mountain_Race_Track_Sprint/Textures/snow-wall-n.png using Guid(7369cdcbba2b9df45b5131f422b4af6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1291bf6a1fe94c409e82005e7b096052') in 0.015892 seconds
+  Import took 0.019846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/pouria/Mountain_Race_Track_Sprint/Textures/snow_n.png
+  artifactKey: Guid(eb01fadb00bdb81449f5f70010fd70d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pouria/Mountain_Race_Track_Sprint/Textures/snow_n.png using Guid(eb01fadb00bdb81449f5f70010fd70d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7facaebbfaf35a363bef41e3ea5c10a9') in 0.017110 seconds
+  Import took 0.021261 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/pouria/Mountain_Race_Track_Sprint/Textures/concrete-floor-n.png
+  artifactKey: Guid(63be8ed2b3336a141af6a8e092cc6bcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pouria/Mountain_Race_Track_Sprint/Textures/concrete-floor-n.png using Guid(63be8ed2b3336a141af6a8e092cc6bcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00e4ea73c5a3c0b6665a2efaedd78277') in 0.022167 seconds
+  Import took 0.026725 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/pouria/Mountain_Race_Track_Sprint/Textures/concrete-floor.png
+  artifactKey: Guid(add5180dc5e0d5b4e92699fd0cc381a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pouria/Mountain_Race_Track_Sprint/Textures/concrete-floor.png using Guid(add5180dc5e0d5b4e92699fd0cc381a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2dcbb4381cbd0c88417e8ba5b3eac565') in 0.023451 seconds
+  Import took 0.027002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000595 seconds.
+  path: Assets/pouria/Mountain_Race_Track_Sprint/Textures/metal.png
+  artifactKey: Guid(2403c3bd25330774e897d031e6032fae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pouria/Mountain_Race_Track_Sprint/Textures/metal.png using Guid(2403c3bd25330774e897d031e6032fae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5aab932b24d85e5e96e6b0f65947491') in 0.015734 seconds
+  Import took 0.019364 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/pouria/Mountain_Race_Track_Sprint/Textures/snow.png
+  artifactKey: Guid(31d021a512925fd4a8ce8d1617f555fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pouria/Mountain_Race_Track_Sprint/Textures/snow.png using Guid(31d021a512925fd4a8ce8d1617f555fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52bb655e11b6ee430fcfb1863654e692') in 0.019134 seconds
+  Import took 0.022953 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/pouria/Mountain_Race_Track_Sprint/Textures/mountain-top-n.png
+  artifactKey: Guid(6adaff58b3ff6da4aabec98aa8ecf236) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pouria/Mountain_Race_Track_Sprint/Textures/mountain-top-n.png using Guid(6adaff58b3ff6da4aabec98aa8ecf236) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fa1e936c7302f0853765a35b773ba8a') in 0.020122 seconds
+  Import took 0.023831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/pouria/Mountain_Race_Track_Sprint/Textures/flag_red.png
+  artifactKey: Guid(24c0fe089f16e0142b7c1e31c7b59d3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pouria/Mountain_Race_Track_Sprint/Textures/flag_red.png using Guid(24c0fe089f16e0142b7c1e31c7b59d3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee5d6c19ee00b748543d0282d9fd6896') in 0.011302 seconds
+  Import took 0.016220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000497 seconds.
+  path: Assets/pouria/Mountain_Race_Track_Sprint/Textures/wood_planks.png
+  artifactKey: Guid(c62ce1fa11b822648a359ea64e177b6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pouria/Mountain_Race_Track_Sprint/Textures/wood_planks.png using Guid(c62ce1fa11b822648a359ea64e177b6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c07a55e5a11b94351d22fe99f87a700') in 0.012956 seconds
+  Import took 0.017678 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/pouria/Mountain_Race_Track_Sprint/Textures/flag_yellow.png
+  artifactKey: Guid(616d446ecf9a0524c90d430487e436b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pouria/Mountain_Race_Track_Sprint/Textures/flag_yellow.png using Guid(616d446ecf9a0524c90d430487e436b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ebce48e5ca34c3ba898c0a297d7a238') in 0.016453 seconds
+  Import took 0.020250 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000413 seconds.
+  path: Assets/pouria/Mountain_Race_Track_Sprint/Textures/stripes_B.png
+  artifactKey: Guid(a9197249e3044fa4c9de08cb93741410) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pouria/Mountain_Race_Track_Sprint/Textures/stripes_B.png using Guid(a9197249e3044fa4c9de08cb93741410) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '943348348d4a8d49a462443c13820bfa') in 0.013306 seconds
+  Import took 0.016345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/pouria/Mountain_Race_Track_Sprint/Textures/mountain-top.png
+  artifactKey: Guid(49226bc0ecb68494197889d6fd752490) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pouria/Mountain_Race_Track_Sprint/Textures/mountain-top.png using Guid(49226bc0ecb68494197889d6fd752490) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '710ebafd7d6fe78e2482bf42e9f6ae8a') in 0.023196 seconds
+  Import took 0.029256 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/pouria/Mountain_Race_Track_Sprint/Textures/asphalt.png
+  artifactKey: Guid(37a8b041c8ddcc443ac82becb1835cb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pouria/Mountain_Race_Track_Sprint/Textures/asphalt.png using Guid(37a8b041c8ddcc443ac82becb1835cb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8325deaf48fe668512a657b925d1bc86') in 0.017939 seconds
+  Import took 0.022117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/pouria/Mountain_Race_Track_Sprint/Textures/flag_green.png
+  artifactKey: Guid(1a5e1a8c769ff4945afd9cc5a5c8d139) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pouria/Mountain_Race_Track_Sprint/Textures/flag_green.png using Guid(1a5e1a8c769ff4945afd9cc5a5c8d139) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18afb83c036e5fad2cc6445c75217fe0') in 0.012629 seconds
+  Import took 0.017088 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/pouria/Mountain_Race_Track_Sprint/Textures/snow-wall.png
+  artifactKey: Guid(1da3031130de46d4cb910cb9fc4ddec9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pouria/Mountain_Race_Track_Sprint/Textures/snow-wall.png using Guid(1da3031130de46d4cb910cb9fc4ddec9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e8de32a6eb8d0b504e1c00504d51edb') in 0.018610 seconds
+  Import took 0.023759 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
